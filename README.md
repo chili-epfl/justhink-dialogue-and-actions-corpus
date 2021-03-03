@@ -51,7 +51,7 @@ An event "B adds Zurich-Gallen (2-8)" modifies the team's current solution by co
 
 ### 1.2. Test Responses  <a name="test_content"></a>
 This part of the dataset contains the responses of each participant in each team to the pre-test and post-test for 39 teams. 
-Each test contains 10 multiple-choice (single answer) questions (i.e. items) with 3 options, and assesses a concept on spanning trees (see [2]).
+Each test contains 10 multiple-choice (single answer) questions (i.e. items) with 3 options, and assesses a concept on spanning trees (see [[2]](#references)).
 
 It consists of 2 files: 
 
@@ -77,9 +77,9 @@ In particular, the columns are:
 * *start*: The start timestamp of the utterance	
 * *end*: The end timestamp of the utterance
 * *interlocutor*: The person (or the robot) that is speaking (A, B: participants; R: the robot; I: an experimenter)
-* utterance: The content of the utterance
+* *utterance*: The content of the utterance
 
-Utterance segmentation is based on [3]'s definition of an *Inter Pausal Unit (IPU)*, defined as "a stretch of a single interlocutor's speech bounded by pauses longer than 100 ms". 
+Utterance segmentation is based on [[3]](#references)'s definition of an *Inter Pausal Unit (IPU)*, defined as "a stretch of a single interlocutor's speech bounded by pauses longer than 100 ms". 
 The numbers that are explicitly referring to the cost of an edge are written as numerals.
 We also annotated punctuation markers, such as commas, full stops, exclamation points and question marks, fillers, such as 'uh' and 'um', and the discourse marker 'oh'. 
 Transcription included incomplete elements, such as "Mount Neuchat-" in "Mount Neuchat- um Mount Interlaken". 
@@ -97,7 +97,7 @@ A graduate student completed two passes on each transcript, and then were checke
 
 [2] J. Nasir\*, U. Norman\*, B. Bruno, and P. Dillenbourg, “When Positive Perception of the Robot Has No Effect on Learning,” in 2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), Aug. 2020, pp. 313–320, doi: [10.1109/RO-MAN47096.2020.9223343](https://doi.org/10.1109/RO-MAN47096.2020.9223343).
 
-[3] H. Koiso, Y. Horiuchi, S. Tutiya, A. Ichikawa, and Y. Den, “An analysis of turn-taking and backchannels based on prosodic and syntactic features in Japanese map task dialogs,” Language and speech, vol. 41, no. 3–4, pp. 295–321, 1998.
+[3] H. Koiso, Y. Horiuchi, S. Tutiya, A. Ichikawa, and Y. Den, “An analysis of turn-taking and backchannels based on prosodic and syntactic features in Japanese map task dialogs,” Language and speech, vol. 41, no. 3–4, pp. 295–321, 1998, doi: [10.1177/002383099804100404](https://doi.org/10.1177/002383099804100404).
 
 
 
