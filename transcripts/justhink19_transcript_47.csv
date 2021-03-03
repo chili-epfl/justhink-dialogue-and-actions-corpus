@@ -1,0 +1,397 @@
+team_no	utterance_no	start	end	interlocutor	utterance
+47	0	40.321	42.448	B	um okay so .
+47	1	41.430	42.628	A	okay so .
+47	2	43.736	48.140	B	i'm going from mount montreux to mount interlaken .
+47	3	48.709	50.836	A	to mount what , what wait mount ?
+47	4	50.866	56.922	I	so maybe you would like to see the instruction sheet once both of you , the this i button .
+47	5	55.120	56.558	R	i see .
+47	6	56.922	59.108	I	ann , can you press this button ?
+47	7	57.071	58.090	A	um
+47	8	59.108	64.680	I	yeah , so at the top it tells you something , like your view and your friends' view .
+47	9	64.419	65.648	B	oh that's cool .
+47	10	66.426	71.579	I	so , in the white view you can build the roads , but in the black view you can not .
+47	11	71.579	77.309	I	but you can see what your friends is doing , and how much money your friend is spending while building a road .
+47	12	77.309	83.010	I	so you both will like alternate between these two views , and you have to build the roads together .
+47	13	77.378	78.546	A	uh
+47	14	82.725	83.804	A	okay .
+47	15	83.010	84.298	I	okay .
+47	16	85.062	87.638	A	i kind of get it if i have question can i ask you ?
+47	17	87.998	94.567	I	uh yeah sure , uh and actually like when you guys build something together and you submit it the robot will give you feedback .
+47	18	94.867	95.556	A	okay .
+47	19	94.986	95.735	I	okay .
+47	20	97.344	98.123	A	okay .
+47	21	106.359	108.217	A	so where are you building ?
+47	22	109.475	114.247	I	so in this view you can not build , you just see what bob will build .
+47	23	113.288	113.857	A	um
+47	24	116.314	120.598	I	and the it will be your turn to build , so first she builds and then you will build .
+47	25	119.526	123.001	A	i go from mount zermatt to mount davos .
+47	26	120.724	123.600	B	oh okay it's your turn then .
+47	27	123.600	126.416	A	and now your turn you can .
+47	28	125.277	129.311	I	oh no you you keep on doing until the screen doesn't change .
+47	29	128.526	130.653	A	oh , um
+47	30	133.139	135.625	A	um just
+47	31	136.374	141.095	A	so we need to collect connect all of them together using the less the least money ?
+47	32	141.544	142.353	I	yeah .
+47	33	142.113	142.862	A	okay .
+47	34	150.529	151.518	A	okay .
+47	35	177.576	183.095	R	guys , do not hesitate to submit your solution .
+47	36	183.095	187.431	R	you can submit it as many times you want .
+47	37	186.563	187.285	B	three
+47	38	187.799	188.255	B	two
+47	39	188.750	189.263	A	one .
+47	40	188.750	189.206	B	one .
+47	41	189.929	193.616	I	it's the green check , ann , it's at the top of the screen .
+47	42	191.429	194.016	A	oh green , green check oh wait .
+47	43	195.747	201.647	R	you are not that far from the minimum , the difference is only 5 francs .
+47	44	201.647	204.290	R	i am sure you can do it .
+47	45	204.687	214.463	R	by the way you guys now also have a button on the bottom of the screen in the abstract view for comparing solutions .
+47	46	216.135	216.990	A	okay .
+47	47	217.181	220.186	I	it's that big green button , if you press that you see your previous solution .
+47	48	220.357	221.289	B	oh okay .
+47	49	221.479	222.164	A	okay .
+47	50	223.628	225.188	A	i'll build first .
+47	51	228.708	230.591	A	why are we 5 francs away ?
+47	52	233.216	234.167	A	um
+47	53	237.020	239.606	A	i think short distances will make less money .
+47	54	281.203	283.257	A	okay , let's click it .
+47	55	284.094	286.718	A	go , oh oh gosh , waiting for .
+47	56	293.818	295.986	A	hello robot .
+47	57	301.616	306.861	I	so you both have to submit , like , one of you has pressed the button but the other hasn't yet .
+47	58	306.670	308.458	A	okay come on let's press it together .
+47	59	308.192	309.447	B	i do that i already pressed it .
+47	60	309.599	310.094	A	three .
+47	61	310.094	310.855	B	two .
+47	62	310.969	311.539	A	one .
+47	63	311.692	312.300	A	go .
+47	64	312.452	318.910	R	you are not that far from the minimum , the difference is only 16 francs .
+47	65	317.397	320.821	A	16 oh gosh let's let's just start .
+47	66	318.910	320.897	R	i am sure you can do it .
+47	67	321.277	322.825	A	let's just do our you know .
+47	68	321.836	324.384	B	i know how we should start , let's so
+47	69	323.833	326.838	A	let's start from mount zermatt to mount davos .
+47	70	331.927	333.639	A	wait mount what ?
+47	71	333.430	334.704	B	mount montreux .
+47	72	335.207	338.231	A	oh mount mount montreux , to
+47	73	337.717	339.790	B	to mount neuchatel .
+47	74	339.600	340.152	A	okay .
+47	75	342.377	344.470	B	and then go to mount interlaken .
+47	76	342.511	342.986	A	and
+47	77	345.268	346.257	A	you sure because
+47	78	345.953	346.543	B	yeah .
+47	79	346.257	346.809	A	okay .
+47	80	347.551	350.309	A	i see oh 3 and 2 , we've got 5 francs .
+47	81	351.944	353.371	A	um i'll go from
+47	82	352.325	354.816	B	go to mount zurich .
+47	83	354.784	357.582	A	go to mount zurich , and then from mount zurich
+47	84	358.058	359.123	B	to mount luzern .
+47	85	359.503	361.082	A	luzern , you go .
+47	86	362.144	362.924	A	okay .
+47	87	366.462	368.421	A	mount s t gallen .
+47	88	370.025	371.128	A	which mountain ?
+47	89	371.147	371.566	B	mount
+47	90	371.870	373.126	B	mount zurich .
+47	91	371.927	372.517	A	okay .
+47	92	373.594	376.999	A	now we already collected , okay we're ready two one go .
+47	93	374.793	376.771	B	okay three two one .
+47	94	377.474	385.539	R	you are not that far from the minimum the difference is only 3 francs i am sure you can do it
+47	95	382.557	384.763	A	3 francs okay how can we
+47	96	383.032	384.953	B	oh okay we're close .
+47	97	386.006	387.604	A	okay um
+47	98	387.337	388.821	B	okay you should take the lead now .
+47	99	388.745	389.392	A	okay .
+47	100	390.533	391.997	A	let's go from mount
+47	101	393.376	395.960	A	davos to mount s t gallen .
+47	102	396.762	399.063	A	and from mount s t gallen to mount zurich .
+47	103	400.433	404.370	B	uh then where should i go , from mount mount luzern to mount zermatt .
+47	104	404.712	408.642	A	yeah , no go from mount zurich to mount um bern .
+47	105	409.073	413.296	A	because uh like , and now go from mount bern go to mount basel .
+47	106	417.385	417.879	A	okay .
+47	107	420.929	425.038	A	i'll go from mount , this to that mountain , and that to that mountain .
+47	108	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .
+47	109	437.655	438.377	A	okay .
+47	110	438.377	439.671	B	then to mount zermatt .
+47	111	439.842	441.363	A	yeah , then to mount zermatt .
+47	112	442.665	444.091	A	connect to mount zermatt
+47	113	444.513	445.121	A	and now
+47	114	445.502	446.167	A	uh connect
+47	115	446.643	449.572	A	okay are you ready three two one press .
+47	116	446.643	449.172	B	two one .
+47	117	452.444	460.584	R	you are not that far from the minimum the difference is only 4 francs i am sure you can do it
+47	118	457.294	458.777	B	oh that's just
+47	119	460.736	463.361	A	okay , you're gonna make it even cheaper .
+47	120	463.399	463.989	B	uh
+47	121	464.187	465.975	A	because i know that um
+47	122	465.481	467.782	B	let's start from mount davos .
+47	123	466.413	473.652	A	no let's now connect mount montreux to um let's now connect mount interlaken to mount
+47	124	473.995	476.315	B	mount davos to mount zermatt .
+47	125	476.932	478.853	B	mount davos to mount zermatt .
+47	126	476.932	477.407	A	okay .
+47	127	478.568	480.622	A	mount davos to mount zermatt ?
+47	128	481.116	482.391	A	where's mount davos ?
+47	129	483.052	483.585	A	mount
+47	130	484.574	486.704	A	mount davos to mount zermatt right ?
+47	131	487.427	487.883	A	okay .
+47	132	488.359	489.519	B	and then to mount luzern
+47	133	489.766	491.801	A	okay , because i've pretty sure this is
+47	134	492.638	493.494	A	3 and 3 .
+47	135	494.084	494.997	A	6 .
+47	136	497.200	497.771	A	okay .
+47	137	498.227	498.779	A	now
+47	138	500.605	501.613	B	to mount bern ?
+47	139	507.427	511.022	A	uh go from mount zurich to s t mount s t gallen .
+47	140	512.828	513.856	A	okay and now
+47	141	514.217	516.271	A	i'll go from mount luzern to mount bern
+47	142	516.518	517.108	A	and go from
+47	143	517.393	518.877	A	mount bern to mount basel .
+47	144	520.326	522.970	B	then mount basel to mount neuchatel ?
+47	145	522.507	522.963	A	yeah .
+47	146	523.268	523.800	A	do that .
+47	147	523.895	525.303	B	and then to mount interlaken ?
+47	148	525.303	526.881	A	yeah , and then to mount montreux .
+47	149	527.528	527.870	A	and then
+47	150	528.441	530.020	A	to mount montreux .
+47	151	530.305	532.321	A	okay three two one .
+47	152	530.818	532.245	B	three two one .
+47	153	533.021	541.028	R	you are not that far from the minimum the difference is only 6 francs i am sure you can do it
+47	154	534.656	536.007	A	oh this is hard .
+47	155	538.137	538.822	B	6 .
+47	156	538.422	539.564	A	6 um .
+47	157	541.484	542.813	A	uh okay .
+47	158	541.615	551.296	R	hey guys maybe it would be easier to solve the problem if you look at your previous solutions more
+47	159	551.410	552.285	B	oh yeah .
+47	160	552.418	553.084	A	okay .
+47	161	553.616	554.548	B	previous solution .
+47	162	555.493	556.406	A	wait .
+47	163	556.843	559.240	A	where do we look at our previous solutions again ?
+47	164	558.954	560.716	B	um so there is this
+47	165	560.704	567.487	I	you can only see that ...
+47	166	564.825	566.376	B	uh okay
+47	167	565.449	566.002	A	oh .
+47	168	567.446	568.177	A	okay .
+47	169	568.605	571.707	A	bob , which one should i connect first , you charge now .
+47	170	572.224	575.879	A	let's go from mount zermatt , to mount zermatt to mount luzern .
+47	171	576.271	576.717	B	yeah .
+47	172	577.608	579.676	A	wait can we delete our tracks if we've
+47	173	579.373	580.104	B	yeah
+47	174	580.514	581.352	R	i see .
+47	175	581.820	582.230	A	um
+47	176	582.784	584.619	A	and now mount luzern to mount bern .
+47	177	584.744	585.564	B	okay .
+47	178	586.438	588.970	A	it's 3 francs wait can we delete our tracks ?
+47	179	588.773	589.326	B	yeah .
+47	180	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let's see if it is any cheaper .
+47	181	599.708	602.525	A	okay let's check , mount zermatt to mount davos
+47	182	602.900	606.555	A	davos and mount davos to mount s t gallen .
+47	183	607.549	608.921	A	it cost a little bit lesser .
+47	184	608.939	610.152	B	then to mount luzern ?
+47	185	610.597	611.631	A	okay you turn .
+47	186	611.364	614.805	B	how about mount luzern , how about mount zurich ?
+47	187	615.331	615.777	A	yeah .
+47	188	616.311	617.845	A	and from mount zurich to mount
+47	189	618.283	618.782	A	bern .
+47	190	621.939	625.808	A	and then , from mount bern to mount basel and from mount basel to mount
+47	191	626.941	628.296	A	to mount interlaken
+47	192	628.439	629.295	A	oh we can't go .
+47	193	629.598	631.880	A	then from mount basel to neuchatel .
+47	194	633.846	636.056	B	then to mount interlaken ?
+47	195	635.450	637.269	A	i'm pretty sure this one will cost a lot .
+47	196	637.518	638.873	A	okay to mount interlaken
+47	197	639.604	641.138	A	and after to mount montreux
+47	198	642.131	642.773	B	okay three ?
+47	199	642.702	643.647	A	uh two .
+47	200	643.914	644.699	B	one .
+47	201	644.039	646.125	A	no we have one more mountain that isn't connected
+47	202	646.125	648.496	A	oh to mount um mount luzern
+47	203	648.906	652.080	A	gosh this one will cost a lot i know , three two one go .
+47	204	653.167	661.351	R	you are not that far from the minimum the difference is only 5 francs i am sure you can do it
+47	205	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let's go try a new because we already start from mount zermatt .
+47	206	669.004	673.657	A	let's now start from mount luzern and go to mount bern because at least it is really sure i'm
+47	207	674.238	676.092	A	and then let's go from mount bern
+47	208	674.274	675.682	B	oh yeah .
+47	209	676.377	679.729	A	to mount s t gallen , oh we can't go , so mount zurich .
+47	210	680.212	680.961	A	let's see .
+47	211	680.925	682.280	B	then
+47	212	681.442	682.387	A	oh it's 3 francs .
+47	213	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we can't go from we can only go from okay just do this and
+47	214	689.483	692.407	B	mount mount luzern to mount
+47	215	691.694	694.778	A	no no no just do mount zurich to mount basel and
+47	216	695.616	696.222	A	mount
+47	217	696.490	698.255	A	the problem is with mount basel .
+47	218	698.611	701.803	A	no at wait , can we delete our tracks , delete .
+47	219	702.174	703.547	A	yeah , because um
+47	220	704.440	705.793	B	oh my god that was expensive .
+47	221	704.634	708.450	A	i i realize that mount basel is the only one that can connect to
+47	222	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let's try a new track this time , let's go from mount bern to interlaken .
+47	223	716.260	719.220	A	and then mount interlaken to mount neuchatel
+47	224	724.158	725.085	A	yeah it's from
+47	225	727.047	730.666	A	okay , oh wait mount zurich to mount uh
+47	226	730.042	732.021	B	mount neuchatel to mount montreux .
+47	227	732.587	733.068	A	yeah .
+47	228	733.781	735.101	A	and then mount zurich
+47	229	735.707	738.060	A	to um mount s t gallen .
+47	230	740.481	740.926	A	okay .
+47	231	741.622	742.780	A	come on let's do this .
+47	232	744.332	745.580	A	mount davos and
+47	233	745.704	748.076	B	mount bern to mount basel ?
+47	234	746.917	749.381	A	no wait , yeah mount bern to mount basel
+47	235	752.109	753.999	A	wait wait wait wait , mount okay good .
+47	236	754.980	755.693	A	and now
+47	237	755.622	756.299	B	is that good ?
+47	238	757.101	758.724	A	let's see which one is um
+47	239	758.314	758.866	B	three .
+47	240	759.348	760.810	B	two , one .
+47	241	759.437	760.578	A	two , one .
+47	242	760.935	761.345	A	go .
+47	243	763.754	768.961	R	you are away from the minimum by 4 francs let's try again
+47	244	769.798	771.189	A	this hard kinda .
+47	245	771.599	772.187	A	okay .
+47	246	772.936	774.933	B	oh i'm starting first .
+47	247	773.721	775.290	A	yeah you're starting this time .
+47	248	776.395	778.766	A	go from mount luzern to mount s
+47	249	778.000	779.497	B	i'm thinking mount
+47	250	779.123	780.206	A	to mount davos .
+47	251	780.527	782.738	B	mount luzern to mount davos .
+47	252	782.934	783.682	B	then
+47	253	783.032	786.036	A	and then go from um mount luzern to mount bern
+47	254	787.816	789.563	A	or if it is possible , okay .
+47	255	790.241	791.399	A	and now i'll go from
+47	256	792.707	794.989	A	mount luzern to mount zurich .
+47	257	796.076	800.017	A	and i can't go from mount zurich to mount basel because that's really expensive .
+47	258	801.124	804.209	A	so i'm , i'll connect to s t gallen .
+47	259	805.492	808.648	B	then mount bern to mount zurich , never mind .
+47	260	808.916	810.360	A	no let's go from mount
+47	261	810.823	811.929	A	to mount um
+47	262	812.535	813.979	A	uh mount luzern
+47	263	813.294	817.584	B	is can i just see if mount bern is mount saint basel uh expensive ?
+47	264	816.236	816.717	A	yeah .
+47	265	817.408	825.471	A	um it's 3 it's 3 francs it's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .
+47	266	826.246	828.636	A	then , i do this , and then i do that .
+47	267	833.556	834.252	A	yeah and then
+47	268	834.448	835.749	B	three .
+47	269	834.662	837.710	A	no no don't connect , wait i'll delete this track .
+47	270	838.245	838.905	A	how'd , yeah .
+47	271	839.618	843.304	A	so , and and then we go from mount zermatt to mount davos .
+47	272	845.194	849.812	A	no wait wait wait , i'm gonna , okay , delete the track from mount zermatt to mount yeah .
+47	273	850.049	851.547	A	okay are you good are you ready ?
+47	274	851.814	852.260	A	three .
+47	275	852.332	853.633	B	two , one .
+47	276	852.635	853.597	A	two , one .
+47	277	854.507	860.244	R	you are away from the minimum by 3 francs let's try again
+47	278	860.637	863.418	A	you are away from the minimum so what do you mean by that ?
+47	279	863.418	866.592	I	you are spending 3 more francs than the required .
+47	280	867.002	867.679	A	what ?
+47	281	868.125	869.569	A	thi is so hard , okay .
+47	282	870.127	870.894	B	uh
+47	283	870.229	872.855	A	come on we can do this our closest
+47	284	871.839	873.551	B	okay i'm gonna take the lead uh
+47	285	873.782	876.225	A	our record is um 3 francs let's see .
+47	286	879.176	880.477	B	uh that's expensive .
+47	287	880.991	881.704	A	um
+47	288	882.899	883.541	A	okay .
+47	289	884.399	889.659	A	whatever you do don't connect mount basel to mount zurich because that costs a lot .
+47	290	890.818	892.244	A	we just need uh um
+47	291	891.763	894.325	B	how about you go from mount neuchatel to mount basel ?
+47	292	894.200	896.625	A	wait i'm just gonna delete your tracks for now .
+47	293	897.106	899.103	I	girls , you have five more minutes .
+47	294	897.338	898.212	A	and and
+47	295	900.061	902.201	A	come on come on bob you can do this .
+47	296	901.416	906.070	B	okay uh i'm gonna go from mount , mount zurich to mount bern .
+47	297	906.734	907.322	A	okay .
+47	298	906.787	909.497	B	then ount bern to mount just
+47	299	908.356	909.194	A	yeah , okay .
+47	300	912.033	913.228	A	okay and now
+47	301	913.656	915.920	A	mount luzern to mount davos and then
+47	302	916.829	918.006	A	mount luzern to
+47	303	918.256	919.807	A	oh gosh i can't go to
+47	304	918.737	920.966	B	oh i'll delete 3 francs .
+47	305	920.110	920.770	A	then um
+47	306	922.552	923.800	A	then interlaken
+47	307	924.050	927.776	A	no i don't want , i don't want the eraser , how do i get rid of the eraser ?
+47	308	928.864	929.666	A	miss
+47	309	929.827	935.746	I	yeah that's because ...
+47	310	929.916	931.538	A	i can't get rid of the eraser .
+47	311	936.031	937.440	A	uh oh i get it now .
+47	312	937.958	939.990	A	okay then to mount zermatt .
+47	313	942.818	944.315	B	is this expensive ?
+47	314	943.246	944.440	A	i know mount
+47	315	944.440	945.100	A	uh
+47	316	945.100	947.311	A	it's 3 francs rub that out because
+47	317	947.970	950.252	A	uh try mount luzern to um
+47	318	950.573	950.966	A	wait
+47	319	951.300	952.138	A	no actually
+47	320	952.405	956.452	A	we have to connect because that's the only way or we connect from mount davos .
+47	321	956.934	958.984	A	so , we haven't tried that one yet .
+47	322	957.896	959.091	B	it's only 2 .
+47	323	960.000	960.892	A	and um
+47	324	962.497	964.744	A	let's go from mount bern to mount
+47	325	965.136	965.742	A	basel .
+47	326	965.885	970.859	A	whatever you do don't do zurich to basel it's so expensive .
+47	327	971.863	972.541	A	okay
+47	328	973.682	974.448	A	and now
+47	329	974.217	976.998	B	wait , no no no hang on erase that erase , erase .
+47	330	976.249	977.230	A	erase what ?
+47	331	977.462	979.351	B	uh mount neuchatel to mount interlaken .
+47	332	979.543	980.042	A	okay .
+47	333	983.198	983.947	A	then um
+47	334	984.143	986.407	A	from let's do from mount montreux
+47	335	987.085	988.279	A	and then after
+47	336	988.636	990.918	A	you go from mount neuchatel to mount interlaken .
+47	337	994.195	994.552	A	okay .
+47	338	995.176	996.584	B	okay then mount zermatt .
+47	339	996.620	997.975	A	we we can go now .
+47	340	998.243	999.152	B	three , two
+47	341	998.528	999.847	A	three , two one go .
+47	342	1000.163	1008.293	R	you are not that far from the minimum the difference is only 7 francs i am sure you can do it
+47	343	1005.726	1007.295	A	7 oh this time
+47	344	1008.543	1009.916	A	this is actually quite hard .
+47	345	1011.213	1012.800	A	okay i start first so
+47	346	1013.156	1015.100	A	let's try something different let's go from mount
+47	347	1015.563	1017.114	A	let's do a circle this time .
+47	348	1018.820	1023.144	A	and don't connect mount zurich to mount basel , that's the only thing you can't do .
+47	349	1023.479	1025.012	A	because that's so expensive .
+47	350	1025.993	1026.599	A	okay .
+47	351	1027.205	1029.487	A	mount zermatt to mount interlaken .
+47	352	1029.969	1033.331	A	mount interlaken to mount bern because mount bern needs to be connected .
+47	353	1033.367	1037.342	B	bern to mount basel and mount basel to neuchatel .
+47	354	1038.029	1038.546	A	okay .
+47	355	1038.029	1039.901	B	then mount neuchatel to mount
+47	356	1039.455	1041.523	A	okay we can go now three , two , one .
+47	357	1039.901	1041.464	B	three , two , one .
+47	358	1043.003	1050.986	R	you are not that far from the minimum the difference is only 3 francs i am sure you can do it
+47	359	1048.456	1050.096	B	uh okay so we're close .
+47	360	1048.722	1049.684	A	why are we always
+47	361	1051.342	1052.840	A	why are we so
+47	362	1052.127	1061.331	R	hey guys maybe it would be easier to solve the problem if you look at your previous solutions more
+47	363	1059.673	1064.166	B	but we did that , we i've did that but it didn't work .
+47	364	1061.955	1064.024	A	we did that uh this is really hard .
+47	365	1064.466	1069.529	A	okay perhaps we just because we're always starting from the mountain on the left side .
+47	366	1071.414	1074.214	A	no just i'm just trying every single way i can .
+47	367	1073.464	1075.992	B	let's start from mount saint gallen .
+47	368	1076.475	1078.062	A	mount s t gallen ?
+47	369	1077.768	1080.176	B	yeah to mount zurich ?
+47	370	1079.064	1082.448	A	but whatever you do don't do mount zurich to mount basel .
+47	371	1082.681	1084.874	B	then mount zurich to mount
+47	372	1085.926	1088.065	A	oh gosh it's actually quite um .
+47	373	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .
+47	374	1094.687	1095.971	A	i'll try a new one .
+47	375	1099.389	1102.563	A	try new , so , if we can't go from mount zurich to
+47	376	1103.222	1108.322	A	wait i'll just erase that track , go from start from mount montreux to mount interlaken .
+47	377	1108.564	1111.113	B	mount montreux to mount interlaken .
+47	378	1113.110	1113.966	A	and then um
+47	379	1114.126	1116.569	A	go oh that's actually quite expensive .
+47	380	1117.274	1118.219	A	okay so go from
+47	381	1118.790	1120.359	A	this is actually quite hard
+47	382	1121.179	1122.284	A	move the eraser away .
+47	383	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern
+47	384	1134.913	1136.482	B	then mount luzern to mount zermatt .
+47	385	1136.874	1137.355	A	yeah .
+47	386	1139.406	1140.618	B	mount zermatt to mount bern .
+47	387	1140.886	1146.234	A	wait mount wait we need to connect to bern so , mount bern and then mount basel .
+47	388	1147.496	1152.595	B	and then mount basel to mount neuchatel , and then , mount neuchatel to mount interlaken .
+47	389	1150.758	1151.792	A	neuchatel .
+47	390	1152.577	1154.966	A	interlaken and interlaken to montreux .
+47	391	1155.478	1156.334	B	three .
+47	392	1155.567	1157.816	A	okay we're two , one , go .
+47	393	1161.898	1167.443	R	you are away from the minimum by 5 francs let's try again
+47	394	1169.172	1170.813	A	this is really really hard .
+47	395	1171.288	1178.847	I	so we are actually over the time as well ...

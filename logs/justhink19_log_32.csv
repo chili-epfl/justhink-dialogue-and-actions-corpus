@@ -1,0 +1,222 @@
+team_no	attempt_no	turn_no	event_no	time	subject	verb	object
+32	1	1	1	0.198	R	shows	observe gesture
+32	1	1	2	0.287	R	says	so, ann and bob, let's start building the tracks. i count on you guys. are you ready? also, you need to play this game together, as both of you will see different views at all times. you can talk now to help each other. to see my instructions again, check the information icon on your screens. time to play. let's go!
+32	1	1	3	53.822	R	shows	thinking gesture
+32	1	1	4	53.836	R	says	hmm, i see.
+32	1	1	5	98.821	R	shows	observe gesture
+32	1	1	6	106.422	A	adds	Basel-Bern (0-3)
+32	1	1	7	123.340	A	adds	Zurich-Bern (2-3)
+32	1	2	8	146.608	B	adds	Luzern-Zurich (1-2)
+32	1	2	9	158.827	R	shows	thinking gesture
+32	1	2	10	158.848	R	says	hmm, i see.
+32	1	2	11	172.882	B	adds	Luzern-Davos (1-9)
+32	1	3	12	183.199	A	adds	Zermatt-Davos (4-9)
+32	1	3	13	192.586	A	adds	Zermatt-Montreux (4-6)
+32	1	4	14	199.856	B	adds	Interlaken-Montreux (5-6)
+32	1	4	15	204.015	B	adds	Interlaken-Neuchatel (5-7)
+32	1	5	16	261.249	A	adds	Montreux-Neuchatel (6-7)
+32	1	5	17	270.857	A	adds	Basel-Neuchatel (0-7)
+32	1	6	18	278.806	R	shows	observe gesture
+32	1	6	19	292.070	B	adds	Interlaken-Bern (5-3)
+32	1	6	20	295.984	B	adds	Zermatt-Interlaken (4-5)
+32	1	7	21	303.283	A	adds	Luzern-Interlaken (1-5)
+32	1	7	22	322.104	A	adds	Luzern-Bern (1-3)
+32	1	8	23	326.904	B	adds	Luzern-Zermatt (1-4)
+32	1	8	24	329.846	B	adds	Zurich-Gallen (2-8)
+32	1	9	25	330.033	R	shows	observe gesture
+32	1	9	26	346.404	B	presses	submit (enabled)
+32	1	9	27	361.273	A	presses	submit (enabled)
+32	1	9	28	361.353	T	submits	cost=48 (opt_cost=22)
+32	1	9	29	362.766	R	shows	talking emotion
+32	1	9	30	362.766	R	shows	up_left gesture
+32	1	9	31	362.855	R	says	you are away from the minimum by 26 francs. let's try again.
+32	1	9	32	369.697	R	shows	talking emotion
+32	1	9	33	369.697	R	shows	point_front gesture
+32	1	9	34	369.786	R	says	by the way, you guys now also have the button on the bottom of your screen in the abstract view for comparing solutions.
+32	2	9	35	383.103	B	presses	compare (enabled)
+32	2	9	36	410.659	A	adds	Basel-Neuchatel (0-7)
+32	2	9	37	414.891	A	adds	Basel-Zurich (0-2)
+32	2	10	38	420.820	B	adds	Zurich-Gallen (2-8)
+32	2	10	39	422.497	B	adds	Gallen-Davos (8-9)
+32	2	11	40	429.427	A	adds	Zermatt-Davos (4-9)
+32	2	11	41	432.703	B	presses	compare (enabled)
+32	2	11	42	433.939	B	presses	compare (enabled)
+32	2	11	43	435.890	B	presses	apply (enabled)
+32	2	11	44	435.900	B	loads	[(0, 2), (0, 3), (0, 7), (1, 2), (1, 3), (1, 4), (1, 5), (1, 9), (2, 3), (2, 8), (4, 5), (4, 6), (4, 9), (5, 3), (5, 6), (5, 7), (6, 7), (8, 9)]
+32	2	11	45	447.656	A	removes	Luzern-Davos (1-9)
+32	2	12	46	450.282	A	removes	Luzern-Bern (1-3)
+32	2	13	47	455.541	B	removes	Zermatt-Davos (4-9)
+32	2	13	48	458.199	B	removes	Zermatt-Interlaken (4-5)
+32	2	14	49	465.602	A	adds	Zermatt-Davos (4-9)
+32	2	14	50	470.038	A	adds	Gallen-Davos (8-9)
+32	2	15	51	477.738	B	presses	submit (enabled)
+32	2	15	52	482.609	A	presses	submit (enabled)
+32	2	15	53	482.727	T	submits	cost=42 (opt_cost=22)
+32	2	15	54	483.938	R	shows	up_left gesture
+32	2	15	55	483.938	R	shows	talking emotion
+32	2	15	56	484.024	R	says	you are not that far from the minimum; the difference is only 20 francs. i am sure you can do it.
+32	3	15	57	499.353	B	adds	Zermatt-Davos (4-9)
+32	3	15	58	507.163	B	adds	Gallen-Davos (8-9)
+32	3	16	59	519.948	A	adds	Zurich-Gallen (2-8)
+32	3	16	60	523.621	A	adds	Basel-Zurich (0-2)
+32	3	17	61	537.085	B	adds	Basel-Neuchatel (0-7)
+32	3	17	62	539.029	B	adds	Montreux-Neuchatel (6-7)
+32	3	18	63	543.457	A	adds	Interlaken-Montreux (5-6)
+32	3	18	64	545.221	A	adds	Interlaken-Bern (5-3)
+32	3	19	65	549.984	B	adds	Luzern-Bern (1-3)
+32	3	19	66	551.593	B	adds	Luzern-Zermatt (1-4)
+32	3	20	67	552.786	B	presses	submit (enabled)
+32	3	20	68	553.059	A	presses	submit (enabled)
+32	3	20	69	553.140	T	submits	cost=33 (opt_cost=22)
+32	3	20	70	554.416	R	shows	talking emotion
+32	3	20	71	554.417	R	shows	up_left gesture
+32	3	20	72	554.491	R	says	you are away from the minimum by 11 francs. let's try again.
+32	4	20	73	566.781	A	adds	Zermatt-Davos (4-9)
+32	4	20	74	570.389	A	adds	Luzern-Zermatt (1-4)
+32	4	21	75	574.234	B	adds	Luzern-Bern (1-3)
+32	4	21	76	578.784	R	shows	thinking gesture
+32	4	21	77	578.795	R	says	hmm, i see.
+32	4	21	78	579.433	B	adds	Interlaken-Bern (5-3)
+32	4	22	79	590.031	A	adds	Interlaken-Montreux (5-6)
+32	4	22	80	594.159	A	removes	Interlaken-Montreux (5-6)
+32	4	23	81	631.683	B	removes	Interlaken-Bern (5-3)
+32	4	23	82	633.755	B	removes	Luzern-Bern (1-3)
+32	4	24	83	649.820	A	removes	Luzern-Zermatt (1-4)
+32	4	24	84	659.625	A	adds	Zermatt-Montreux (4-6)
+32	4	25	85	665.066	B	adds	Montreux-Neuchatel (6-7)
+32	4	25	86	672.344	B	adds	Basel-Neuchatel (0-7)
+32	4	26	87	677.135	A	removes	Basel-Neuchatel (0-7)
+32	4	26	88	684.417	A	adds	Interlaken-Neuchatel (5-7)
+32	4	27	89	689.365	B	adds	Interlaken-Bern (5-3)
+32	4	27	90	695.910	B	removes	Interlaken-Bern (5-3)
+32	4	28	91	713.342	A	adds	Basel-Neuchatel (0-7)
+32	4	28	92	717.286	A	adds	Basel-Zurich (0-2)
+32	4	29	93	722.333	B	adds	Zurich-Gallen (2-8)
+32	4	29	94	723.942	B	adds	Gallen-Davos (8-9)
+32	4	30	95	727.202	B	presses	compare (enabled)
+32	4	30	96	762.420	A	removes	Basel-Zurich (0-2)
+32	4	30	97	766.982	A	adds	Basel-Bern (0-3)
+32	4	31	98	770.833	B	adds	Zurich-Bern (2-3)
+32	4	31	99	774.580	B	adds	Luzern-Bern (1-3)
+32	4	32	100	778.247	B	presses	submit (enabled)
+32	4	32	101	779.364	A	presses	submit (enabled)
+32	4	32	102	779.468	T	submits	cost=28 (opt_cost=22)
+32	4	32	103	781.716	R	shows	talking emotion
+32	4	32	104	781.717	R	shows	up_left gesture
+32	4	32	105	781.811	R	says	you are not that far from the minimum; the difference is only 6 francs. i am sure you can do it.
+32	5	32	106	794.416	A	presses	help (enabled)
+32	5	32	107	795.830	B	presses	compare (enabled)
+32	5	32	108	803.982	A	adds	Basel-Neuchatel (0-7)
+32	5	32	109	811.786	A	adds	Basel-Bern (0-3)
+32	5	33	110	816.606	A	presses	compare (enabled)
+32	5	33	111	817.847	B	removes	Basel-Bern (0-3)
+32	5	33	112	819.307	A	presses	previous (enabled)
+32	5	33	113	820.862	B	adds	Montreux-Neuchatel (6-7)
+32	5	34	114	841.080	A	adds	Zermatt-Montreux (4-6)
+32	5	34	115	851.922	A	adds	Zermatt-Davos (4-9)
+32	5	35	116	856.949	B	adds	Gallen-Davos (8-9)
+32	5	35	117	861.612	B	adds	Zurich-Gallen (2-8)
+32	5	36	118	868.021	A	adds	Luzern-Zurich (1-2)
+32	5	36	119	870.023	A	adds	Zurich-Bern (2-3)
+32	5	37	120	877.719	B	adds	Basel-Bern (0-3)
+32	5	37	121	880.808	B	adds	Luzern-Bern (1-3)
+32	5	38	122	885.092	A	presses	submit (disabled)
+32	5	38	123	917.233	A	adds	Luzern-Zermatt (1-4)
+32	5	38	124	941.863	A	removes	Luzern-Zermatt (1-4)
+32	5	39	125	947.716	B	removes	Zurich-Bern (2-3)
+32	5	39	126	948.975	B	removes	Basel-Bern (0-3)
+32	5	40	127	961.590	A	adds	Basel-Zurich (0-2)
+32	5	40	128	972.211	A	adds	Interlaken-Bern (5-3)
+32	5	41	129	975.727	B	presses	submit (enabled)
+32	5	41	130	977.998	A	presses	submit (enabled)
+32	5	41	131	978.224	T	submits	cost=30 (opt_cost=22)
+32	5	41	132	979.711	R	shows	talking emotion
+32	5	41	133	979.723	R	shows	up_left gesture
+32	5	41	134	979.828	R	says	you are away from the minimum by 8 francs. let's try again.
+32	5	41	135	986.133	R	shows	up_right gesture
+32	5	41	136	986.134	R	shows	talking emotion
+32	5	41	137	986.365	R	says	hey guys, maybe, it would be easier to solve the problem if you look at your previous solutions more.
+32	6	41	138	997.252	A	presses	compare (enabled)
+32	6	41	139	999.122	A	presses	previous (enabled)
+32	6	41	140	999.794	A	presses	previous (enabled)
+32	6	41	141	1000.451	A	presses	previous (enabled)
+32	6	41	142	1000.922	A	presses	previous (enabled)
+32	6	41	143	1002.126	A	presses	compare (enabled)
+32	6	41	144	1002.146	A	presses	next (enabled)
+32	6	41	145	1002.620	A	presses	compare (enabled)
+32	6	41	146	1002.631	A	presses	next (enabled)
+32	6	41	147	1003.047	A	presses	compare (enabled)
+32	6	41	148	1003.056	A	presses	next (enabled)
+32	6	41	149	1003.773	A	presses	compare (enabled)
+32	6	41	150	1003.784	A	presses	next (enabled)
+32	6	41	151	1004.251	B	adds	Montreux-Neuchatel (6-7)
+32	6	41	152	1005.238	A	presses	previous (enabled)
+32	6	41	153	1005.481	A	presses	compare (enabled)
+32	6	41	154	1005.495	A	presses	next (enabled)
+32	6	41	155	1005.917	A	presses	compare (enabled)
+32	6	41	156	1006.493	A	presses	previous (enabled)
+32	6	41	157	1007.938	A	presses	apply (enabled)
+32	6	41	158	1007.948	A	loads	[(0, 3), (0, 7), (1, 3), (2, 3), (2, 8), (4, 6), (4, 9), (5, 7), (6, 7), (8, 9)]
+32	6	41	159	1008.472	A	presses	apply (enabled)
+32	6	41	160	1009.503	A	presses	apply (enabled)
+32	6	41	161	1009.513	A	loads	[(0, 3), (0, 7), (1, 3), (2, 3), (2, 8), (4, 6), (4, 9), (5, 7), (6, 7), (8, 9)]
+32	6	41	162	1015.808	B	removes	Interlaken-Neuchatel (5-7)
+32	6	42	163	1017.224	B	removes	Basel-Bern (0-3)
+32	6	43	164	1029.049	A	adds	Interlaken-Neuchatel (5-7)
+32	6	43	165	1037.593	B	presses	submit (enabled)
+32	6	43	166	1038.741	A	presses	submit (enabled)
+32	6	43	167	1038.817	T	submits	cost=25 (opt_cost=22)
+32	6	43	168	1040.109	R	shows	talking emotion
+32	6	43	169	1040.110	R	shows	up_left gesture
+32	6	43	170	1040.271	R	says	you are not that far from the minimum; the difference is only 3 francs. i am sure you can do it.
+32	7	43	171	1051.558	B	presses	compare (enabled)
+32	7	43	172	1053.210	B	presses	apply (enabled)
+32	7	43	173	1053.220	B	loads	[(0, 7), (1, 3), (2, 3), (2, 8), (4, 6), (4, 9), (5, 7), (6, 7), (8, 9)]
+32	7	43	174	1118.533	A	removes	Luzern-Bern (1-3)
+32	7	43	175	1121.245	A	removes	Zurich-Bern (2-3)
+32	7	44	176	1129.426	B	adds	Interlaken-Bern (5-3)
+32	7	44	177	1133.520	B	adds	Luzern-Bern (1-3)
+32	7	45	178	1135.441	B	presses	submit (enabled)
+32	7	45	179	1139.513	A	presses	submit (enabled)
+32	7	45	180	1139.612	T	submits	cost=26 (opt_cost=22)
+32	7	45	181	1141.074	R	shows	talking emotion
+32	7	45	182	1141.077	R	shows	up_left gesture
+32	7	45	183	1141.162	R	says	you are not that far from the minimum; the difference is only 4 francs. i am sure you can do it.
+32	8	45	184	1151.823	B	presses	compare (enabled)
+32	8	45	185	1152.315	B	presses	apply (enabled)
+32	8	45	186	1152.325	B	loads	[(0, 7), (1, 3), (2, 8), (4, 6), (4, 9), (5, 3), (5, 7), (6, 7), (8, 9)]
+32	8	45	187	1173.343	A	adds	Luzern-Zermatt (1-4)
+32	8	45	188	1175.136	A	removes	Interlaken-Bern (5-3)
+32	8	46	189	1180.345	B	presses	submit (enabled)
+32	8	46	190	1181.124	A	presses	submit (enabled)
+32	8	46	191	1181.189	T	submits	cost=25 (opt_cost=22)
+32	8	46	192	1182.483	R	shows	talking emotion
+32	8	46	193	1182.485	R	shows	up_left gesture
+32	8	46	194	1182.603	R	says	you are not that far from the minimum; the difference is only 3 francs. i am sure you can do it.
+32	9	46	195	1195.659	A	presses	compare (enabled)
+32	9	46	196	1201.265	A	presses	apply (enabled)
+32	9	46	197	1201.275	A	loads	[(0, 7), (1, 3), (1, 4), (2, 8), (4, 6), (4, 9), (5, 7), (6, 7), (8, 9)]
+32	9	46	198	1208.933	B	removes	Basel-Neuchatel (0-7)
+32	9	46	199	1213.557	B	adds	Basel-Zurich (0-2)
+32	9	47	200	1218.530	A	removes	Basel-Zurich (0-2)
+32	9	47	201	1227.068	A	adds	Basel-Neuchatel (0-7)
+32	9	48	202	1237.723	B	presses	submit (enabled)
+32	9	48	203	1241.124	A	presses	submit (enabled)
+32	9	48	204	1241.203	T	submits	cost=25 (opt_cost=22)
+32	9	48	205	1242.506	R	shows	talking emotion
+32	9	48	206	1242.506	R	shows	up_left gesture
+32	9	48	207	1242.623	R	says	you are not that far from the minimum; the difference is only 3 francs. i am sure you can do it.
+32	10	48	208	1252.735	A	presses	compare (enabled)
+32	10	48	209	1254.085	A	presses	apply (enabled)
+32	10	48	210	1254.095	A	loads	[(0, 7), (1, 3), (1, 4), (2, 8), (4, 6), (4, 9), (5, 7), (6, 7), (8, 9)]
+32	10	48	211	1259.474	B	removes	Luzern-Bern (1-3)
+32	10	48	212	1262.735	B	adds	Zurich-Bern (2-3)
+32	10	49	213	1265.041	B	presses	submit (enabled)
+32	10	49	214	1267.247	A	presses	submit (enabled)
+32	10	49	215	1267.330	T	submits	cost=25 (opt_cost=22)
+32	10	49	216	1268.630	R	shows	talking emotion
+32	10	49	217	1268.630	R	shows	up_left gesture
+32	10	49	218	1268.795	R	says	you are away from the minimum by 3 francs. let's try again.
+32	10	49	219	1275.099	R	shows	talking emotion
+32	10	49	220	1275.099	R	shows	up_right gesture
+32	10	49	221	1275.252	R	says	hey guys, maybe, it would be easier to solve the problem if you look at your previous solutions more.

@@ -1,0 +1,148 @@
+team_no	attempt_no	turn_no	event_no	time	subject	verb	object
+18	1	1	1	0.317	R	shows	observe gesture
+18	1	1	2	0.361	R	says	so, ann and bob, let's start building the tracks. i count on you guys. are you ready? also, you need to play this game together, as both of you will see different views at all times. you can talk now to help each other. to see my instructions again, check the information icon on your screens. time to play. let's go!
+18	1	1	3	53.608	R	shows	thinking gesture
+18	1	1	4	53.626	R	says	hmm, i see.
+18	1	1	5	61.429	A	adds	Zermatt-Davos (4-9)
+18	1	1	6	76.769	B	presses	help (enabled)
+18	1	1	7	78.054	A	presses	help (enabled)
+18	1	1	8	98.610	R	shows	observe gesture
+18	1	1	9	110.709	A	presses	submit (disabled)
+18	1	1	10	143.475	B	presses	help (enabled)
+18	1	1	11	153.731	B	presses	help (enabled)
+18	1	1	12	157.068	B	presses	help (enabled)
+18	1	1	13	158.608	R	shows	thinking gesture
+18	1	1	14	158.629	R	says	hmm, i see.
+18	1	1	15	173.841	A	adds	Luzern-Zermatt (1-4)
+18	1	2	16	189.366	B	adds	Zermatt-Montreux (4-6)
+18	1	2	17	191.679	B	adds	Interlaken-Montreux (5-6)
+18	1	3	18	219.701	A	adds	Luzern-Bern (1-3)
+18	1	3	19	224.803	B	presses	help (enabled)
+18	1	3	20	225.274	A	presses	help (enabled)
+18	1	3	21	234.128	A	presses	submit (disabled)
+18	1	3	22	251.365	B	presses	help (enabled)
+18	1	3	23	282.818	A	adds	Zurich-Bern (2-3)
+18	1	4	24	289.758	B	adds	Interlaken-Neuchatel (5-7)
+18	1	4	25	291.681	B	adds	Basel-Neuchatel (0-7)
+18	1	5	26	307.225	A	removes	Basel-Neuchatel (0-7)
+18	1	5	27	308.007	B	presses	help (enabled)
+18	1	5	28	339.175	A	adds	Zurich-Davos (2-9)
+18	1	6	29	345.965	B	adds	Basel-Neuchatel (0-7)
+18	1	6	30	351.067	R	shows	observe gesture
+18	1	6	31	351.279	B	adds	Zurich-Gallen (2-8)
+18	1	7	32	387.809	B	presses	help (enabled)
+18	1	7	33	436.998	A	presses	submit (enabled)
+18	1	7	34	437.105	T	submits	cost=32 (opt_cost=22)
+18	1	7	35	437.291	R	shows	talking emotion
+18	1	7	36	437.292	R	shows	up_left gesture
+18	1	7	37	437.408	R	says	you are not that far from the minimum; the difference is only 10 francs. i am sure you can do it.
+18	1	7	38	437.410	B	presses	submit (enabled)
+18	1	7	39	446.331	R	shows	talking emotion
+18	1	7	40	446.331	R	shows	point_front gesture
+18	1	7	41	446.445	R	says	by the way, you guys now also have the button on the bottom of your screen in the abstract view for comparing solutions.
+18	1	7	42	458.609	R	shows	observe gesture
+18	2	7	43	461.164	B	presses	compare (enabled)
+18	2	7	44	461.246	B	presses	compare (enabled)
+18	2	7	45	467.978	A	adds	Zermatt-Montreux (4-6)
+18	2	7	46	477.563	B	presses	compare (enabled)
+18	2	7	47	486.677	B	presses	compare (enabled)
+18	2	7	48	504.761	B	presses	compare (enabled)
+18	2	7	49	507.828	B	presses	apply (enabled)
+18	2	7	50	507.838	B	loads	[(0, 7), (1, 3), (1, 4), (2, 3), (2, 8), (2, 9), (4, 6), (4, 9), (5, 6), (5, 7)]
+18	2	7	51	509.777	B	presses	apply (enabled)
+18	2	7	52	509.787	B	loads	[(0, 7), (1, 3), (1, 4), (2, 3), (2, 8), (2, 9), (4, 6), (4, 9), (5, 6), (5, 7)]
+18	2	7	53	516.111	B	presses	submit (enabled)
+18	2	7	54	526.942	A	presses	help (enabled)
+18	2	7	55	558.245	B	presses	compare (enabled)
+18	2	7	56	568.346	B	presses	apply (enabled)
+18	2	7	57	568.356	B	loads	[(0, 7), (1, 3), (1, 4), (2, 3), (2, 8), (2, 9), (4, 6), (4, 9), (5, 6), (5, 7)]
+18	2	7	58	568.819	B	presses	apply (enabled)
+18	2	7	59	569.665	B	presses	apply (enabled)
+18	2	7	60	569.675	B	loads	[(0, 7), (1, 3), (1, 4), (2, 3), (2, 8), (2, 9), (4, 6), (4, 9), (5, 6), (5, 7)]
+18	2	7	61	578.609	R	shows	thinking gesture
+18	2	7	62	578.638	R	says	hmm, i see.
+18	2	7	63	598.747	B	presses	submit (enabled)
+18	2	7	64	600.443	A	presses	submit (enabled)
+18	2	7	65	600.529	T	submits	cost=32 (opt_cost=22)
+18	2	7	66	600.786	R	shows	talking emotion
+18	2	7	67	600.787	R	shows	up_left gesture
+18	2	7	68	600.865	R	says	you are not that far from the minimum; the difference is only 10 francs. i am sure you can do it.
+18	3	7	69	608.099	B	presses	compare (enabled)
+18	3	7	70	686.745	A	adds	Interlaken-Montreux (5-6)
+18	3	7	71	717.361	A	adds	Interlaken-Neuchatel (5-7)
+18	3	8	72	725.694	A	presses	compare (enabled)
+18	3	8	73	729.598	B	adds	Basel-Neuchatel (0-7)
+18	3	8	74	734.292	A	presses	previous (enabled)
+18	3	8	75	736.072	B	adds	Basel-Bern (0-3)
+18	3	9	76	829.559	A	adds	Neuchatel-Bern (7-3)
+18	3	9	77	834.846	A	removes	Neuchatel-Bern (7-3)
+18	3	10	78	840.060	B	adds	Zurich-Bern (2-3)
+18	3	10	79	843.591	B	adds	Luzern-Zurich (1-2)
+18	3	11	80	901.205	A	adds	Luzern-Bern (1-3)
+18	3	11	81	925.313	A	adds	Zurich-Gallen (2-8)
+18	3	12	82	937.680	A	presses	compare (enabled)
+18	3	12	83	969.926	B	removes	Interlaken-Montreux (5-6)
+18	3	12	84	977.684	A	presses	compare (enabled)
+18	3	12	85	994.807	B	adds	Luzern-Zermatt (1-4)
+18	3	13	86	1008.446	A	adds	Zermatt-Davos (4-9)
+18	3	13	87	1015.745	A	adds	Zurich-Davos (2-9)
+18	3	14	88	1051.940	B	adds	Zermatt-Montreux (4-6)
+18	3	14	89	1066.496	B	removes	Zurich-Davos (2-9)
+18	3	15	90	1209.211	A	removes	Luzern-Bern (1-3)
+18	3	15	91	1222.541	A	presses	submit (enabled)
+18	3	15	92	1234.097	R	shows	talking emotion
+18	3	15	93	1234.099	R	shows	up_left gesture
+18	3	15	94	1234.202	R	says	you are away from the minimum by 4 francs. let's try again.
+18	3	15	95	1234.243	B	presses	submit (enabled)
+18	3	15	96	1234.273	T	submits	cost=26 (opt_cost=22)
+18	3	15	97	1238.608	R	shows	observe gesture
+18	3	15	98	1238.623	R	says	so guys,..you have 5 more minutes to find the best solution. you can do it!
+18	4	15	99	1276.336	A	adds	Montreux-Neuchatel (6-7)
+18	4	15	100	1293.201	A	adds	Interlaken-Montreux (5-6)
+18	4	16	101	1306.855	B	removes	Interlaken-Montreux (5-6)
+18	4	16	102	1309.910	B	adds	Basel-Neuchatel (0-7)
+18	4	17	103	1332.154	B	presses	compare (enabled)
+18	4	17	104	1359.001	A	adds	Zermatt-Montreux (4-6)
+18	4	17	105	1369.877	A	adds	Zermatt-Davos (4-9)
+18	4	18	106	1375.994	B	adds	Gallen-Davos (8-9)
+18	4	18	107	1397.840	B	adds	Zurich-Gallen (2-8)
+18	4	19	108	1405.708	A	adds	Luzern-Zurich (1-2)
+18	4	19	109	1429.913	A	adds	Zurich-Bern (2-3)
+18	4	20	110	1434.563	B	adds	Basel-Bern (0-3)
+18	4	20	111	1445.737	B	adds	Interlaken-Neuchatel (5-7)
+18	4	21	112	1455.071	A	presses	submit (enabled)
+18	4	21	113	1455.319	B	presses	submit (enabled)
+18	4	21	114	1455.676	T	submits	cost=27 (opt_cost=22)
+18	4	21	115	1456.283	A	presses	submit (enabled)
+18	4	21	116	1456.376	R	shows	talking emotion
+18	4	21	117	1456.379	R	shows	up_left gesture
+18	4	21	118	1456.500	R	says	you are away from the minimum by 5 francs. let's try again.
+18	5	21	119	1469.922	B	presses	compare (enabled)
+18	5	21	120	1476.567	A	adds	Zermatt-Montreux (4-6)
+18	5	21	121	1509.627	A	adds	Montreux-Neuchatel (6-7)
+18	5	22	122	1536.420	B	adds	Zermatt-Davos (4-9)
+18	5	22	123	1543.843	B	adds	Gallen-Davos (8-9)
+18	5	23	124	1552.247	A	adds	Zurich-Gallen (2-8)
+18	5	23	125	1563.819	A	adds	Basel-Zurich (0-2)
+18	5	24	126	1568.988	B	adds	Basel-Neuchatel (0-7)
+18	5	24	127	1572.822	B	adds	Zurich-Bern (2-3)
+18	5	25	128	1583.677	A	removes	Basel-Zurich (0-2)
+18	5	25	129	1601.183	A	adds	Basel-Bern (0-3)
+18	5	26	130	1605.842	B	adds	Interlaken-Bern (5-3)
+18	5	26	131	1609.697	B	adds	Luzern-Bern (1-3)
+18	5	27	132	1668.802	B	presses	previous (enabled)
+18	5	27	133	1747.086	A	removes	Zurich-Bern (2-3)
+18	5	27	134	1790.249	A	adds	Basel-Zurich (0-2)
+18	5	28	135	1814.723	B	presses	submit (enabled)
+18	5	28	136	1827.915	A	presses	submit (enabled)
+18	5	28	137	1829.118	A	presses	submit (enabled)
+18	5	28	138	1829.259	R	shows	talking emotion
+18	5	28	139	1829.260	R	shows	up_left gesture
+18	5	28	140	1829.348	B	presses	submit (enabled)
+18	5	28	141	1829.370	R	says	you are away from the minimum by 9 francs. let's try again.
+18	5	28	142	1829.388	T	submits	cost=31 (opt_cost=22)
+18	5	28	143	1833.816	B	presses	submit (enabled)
+18	5	28	144	1834.012	B	presses	submit (enabled)
+18	5	28	145	1835.687	R	shows	talking emotion
+18	5	28	146	1835.690	R	shows	up_right gesture
+18	5	28	147	1835.823	R	says	hey guys, maybe, it would be easier to solve the problem if you look at your previous solutions more.
