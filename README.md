@@ -43,7 +43,7 @@ In particular, the columns are:
 * *verb*: The verb that describes the event (e.g. "presses", "adds", "removes")
 * *object*: The object that is acted on by the subject performing the verb (e.g. "submit (enabled)" for subject: A, verb: "presses") 
 
-For example, in a logged event "A presses submit (disabled)", submit refers to the submit button, and *enabled* is the status of the button at the time of the button press by participant A (that it was active/enabled), and hence the help window is displayed afterwards. 
+For example, in a logged event "A presses submit (disabled)", submit refers to the submit button, and "enabled" is the status of the button at the time of the button press by participant A (that it was active/enabled), and hence the help window is displayed afterwards. 
 Note that the closing of e.g. a help window is not logged.
 An event "B presses submit (disabled)" is logged, when B tries to submit a solution, by pressing the submit button, while it was not allowed to submit, i.e. the current solution was not connecting all nodes to each other (see [[2]](#references) for the activity details).
 
@@ -85,11 +85,11 @@ In particular, the columns are:
 * *utterance*: The content of the utterance
 
 Utterance segmentation is based on [[3]](#references)'s definition of an *Inter Pausal Unit (IPU)*, defined as "a stretch of a single interlocutor's speech bounded by pauses longer than 100 ms". 
-The numbers that are explicitly referring to the cost of an edge are written as numerals.
 We also annotated punctuation markers, such as commas, full stops, exclamation points and question marks, fillers, such as 'uh' and 'um', and the discourse marker 'oh'. 
 Transcription included incomplete elements, such as "Mount Neuchat-" in "Mount Neuchat- um Mount Interlaken". 
 We standardised variations of pronunciation in the transcriptions, and we do not account for e.g. variations in accent. 
-For anonymisation, a person's name is replaced with a pseudonym (in particular Ann for participant A, and Bob for participant B).
+For anonymisation, a person's name is replaced with a pseudonym (in particular Ann for participant A, Bob for participant B, and other pesudonyms if an interlocutor refers to someone else).
+The numbers that are explicitly referring to the cost of an edge or a set of edges are written as numerals.
 A graduate student completed two passes on each transcript, and then were checked by another native English speaking graduate student with experience in transcription/annotation tasks.
 
 Note that the start and end times are synchronised with the log times, and the robot's introductory line to start the activity ("so, Ann and Bob, let's start building the tracks. ...", available in the logs) is not included in the transcripts. In addition, some of the utterances by the experimenter (I) and the robot (R) are omitted; these are indicated with "..." in the utterance content. All of the utterances by the robot are available in the logs in complete form.
