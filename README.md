@@ -1,6 +1,6 @@
 # JUSThink Dialogue and Actions Corpus (Dataset)
 
-The information contained in this dataset (JUSThink Dialogue and Actions Corpus) includes event logs, test responses and transcripts of children aged 9 through 12, as they participate in  a robot-mediated human-human collaborative learning activity named JUSThink, where children in teams of two solve a problem on graphs together. 
+The information contained in this dataset (JUSThink Dialogue and Actions Corpus) includes event logs, test responses and transcripts of children aged 9 through 12, as they participate in a robot-mediated human-human collaborative learning activity named JUSThink, where children in teams of two solve a problem on graphs together. 
 The information was collected in a study at two international schools in Switzerland, in October 2019. 
 The JUSThink activity and its study is first described in [[1]](#references), and elaborated with findings concerning the link between children's learning, performance in the activity, and perception of self, the other and the robot in [[2]](#references).
 See the [project website](https://www.epfl.ch/labs/chili/index-html/research/animatas/justhink/) for details.
@@ -19,7 +19,7 @@ See the [project website](https://www.epfl.ch/labs/chili/index-html/research/ani
 JUSThink Dialogue and Actions Corpus is consisted of three parts:
 
 1. [logs](logs): anonymised event logs for 39 teams of two children (see [logs](#log_content) for details)
-2. [test responses](test_responses):  pre-test and post-test responses for 39 teams, and the key i.e. the correct responses (see [tests](#test_content))
+2. [test responses](test_responses): pre-test and post-test responses for 39 teams, and the key i.e. the correct responses (see [tests](#test_content))
 3. [transcripts](transcripts): anonymised transcripts for 10 teams (see [transcripts](#transcript_content))
 
 In addition, there is metadata that contains information on the network that the children have worked on: 
@@ -27,7 +27,7 @@ It is a JSON file in a node-link format, providing the node labels (e.g. "Mount 
 It can be [read](https://networkx.org/documentation/stable/reference/readwrite/generated/networkx.readwrite.json_graph.node_link_graph.html) into a [NetworkX](https://networkx.org/) graph.
 
 
-### 1.1. Logs  <a name="log_content"></a>
+### 1.1. Logs <a name="log_content"></a>
 This part of the dataset contains anonymised event log data for 39 teams.
 
 It consists of 39 files, with one tab-separated text file per team ([logs/justhink19_log_<team_no\>.csv](logs/)).
@@ -49,12 +49,12 @@ An event "B presses submit (disabled)" is logged, when B tries to submit a solut
 
 Regarding the collaborative modification and submission of a solution, e.g. an event "B adds Zurich-Gallen (2-8)" modifies the team's current solution by connecting Zurich to Gallen, where 2 and 8 correspond to the node ids respectively.
 An event "T submits	cost=64 (opt_cost=22)" indicates that the team's solution is registered as a solution, where the total cost of the submitted solution is 64, whereas the optimal cost (for a correct solution) is 22.
-Note that in a few cases a team's submit event might not reflect the total cost by counting the add (and subtracting remove) events due to an error in the logging; however, the submitted solution's cost (as logged in an event "T submits ...")  is always correct, and this is what the robot reacts to (by giving feedback on the solution, see [[2]](#references)).
+Note that in a few cases a team's submit event might not reflect the total cost by counting the add (and subtracting remove) events due to an error in the logging; however, the submitted solution's cost (as logged in an event "T submits ...") is always correct, and this is what the robot reacts to (by giving feedback on the solution, see [[2]](#references)).
 
 For anonymisation, the robot's introductory line to start the activity ("so, Ann and Bob, let's start building the tracks. ...") has the participant A's name replaced with Ann (and B with Bob), while within the activity the robot pronounces the names of children.
 
 
-### 1.2. Test Responses  <a name="test_content"></a>
+### 1.2. Test Responses <a name="test_content"></a>
 This part of the dataset contains the responses of each participant in each team to the pre-test and post-test for 39 teams. 
 Each test contains 10 multiple-choice (single answer) questions (i.e. items) with 3 options (1 to 3), and assesses a concept on spanning trees (see [[2]](#references)).
 
@@ -70,7 +70,7 @@ In particular, the columns are:
 * *q?\_B*: The response of participant B to a particular item
 
 
-### 1.3. Transcripts  <a name="transcript_content"></a>
+### 1.3. Transcripts <a name="transcript_content"></a>
 This part of the dataset contains the anonymised dialogue transcripts for 10 teams (out of 39 teams).
 
 It consists of 10 files, with one tab-separated text file per team ([transcripts/justhink19_transcript_<team_no\>.csv](transcripts/)).
