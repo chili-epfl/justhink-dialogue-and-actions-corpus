@@ -20,7 +20,7 @@ JUSThink Dialogue and Actions Corpus is consisted of three parts:
 
 1. [logs](logs): anonymised event logs for 39 teams of two children (see [logs](#log_content) for details)
 2. [test responses](test_responses): pre-test and post-test responses for 39 teams, and the key i.e. the correct responses (see [tests](#test_content))
-3. [transcripts](transcripts): anonymised transcripts for 10 teams (see [transcripts](#transcript_content))
+3. [transcripts](transcripts): anonymised dialogue transcripts for 10 teams (see [transcripts](#transcript_content))
 
 In addition, there is metadata that contains information on the network that the children have worked on: 
 It is a JSON file in a node-link format, providing the node labels (e.g. "Mount Luzern"), node ids, x, y position of a node, edges between the nodes, and edge costs ([metadata/network.json](metadata/network.json)). 
