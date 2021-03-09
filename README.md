@@ -7,9 +7,9 @@ See the [project website](https://www.epfl.ch/labs/chili/index-html/research/ani
 
 
 1. [Content](#code_description)
-    1. [Logs](#log_content)
-    2. [Test Responses](#test_content)
-    3. [Transcripts](#transcript_content)
+    1. [Transcripts](#transcript_content)
+    2. [Logs](#log_content)
+    3. [Test Responses](#test_content)
 2. [Acknowledgements](#acknowledgements)
 3. [References](#references)
 
@@ -18,16 +18,41 @@ See the [project website](https://www.epfl.ch/labs/chili/index-html/research/ani
 
 JUSThink Dialogue and Actions Corpus is consisted of three parts:
 
-1. [logs](logs): anonymised event logs for 39 teams of two children (see [logs](#log_content) for details)
-2. [test responses](test_responses): pre-test and post-test responses for 39 teams, and the key i.e. the correct responses (see [tests](#test_content))
-3. [transcripts](transcripts): anonymised dialogue transcripts for 10 teams (see [transcripts](#transcript_content))
+1. [transcripts](transcripts): anonymised dialogue transcripts for 10 teams (see [transcripts](#transcript_content))
+2. [logs](logs): anonymised event logs for 39 teams of two children (see [logs](#log_content) for details)
+3. [test responses](test_responses): pre-test and post-test responses for 39 teams, and the key i.e. the correct responses (see [tests](#test_content))
 
 In addition, there is metadata that contains information on the network that the children have worked on: 
 It is a JSON file in a node-link format, providing the node labels (e.g. "Mount Luzern"), node ids, x, y position of a node, edges between the nodes, and edge costs ([metadata/network.json](metadata/network.json)). 
 It can be [read](https://networkx.org/documentation/stable/reference/readwrite/generated/networkx.readwrite.json_graph.node_link_graph.html) into a [NetworkX](https://networkx.org/) graph.
 
 
-### 1.1. Logs <a name="log_content"></a>
+### 1.1. Transcripts <a name="transcript_content"></a>
+This part of the dataset contains the anonymised dialogue transcripts for 10 teams (out of 39 teams).
+
+It consists of 10 files, with one tab-separated text file per team ([transcripts/justhink19_transcript_<team_no\>.csv](transcripts/)).
+
+In particular, the columns are:
+
+* *team_no*: The number of the team that the dialogue belongs to
+* *utterance_no*: The number of the utterance, starting from 1
+* *start*: The start timestamp of the utterance (in seconds), from the beginning of the activity
+* *end*: The end timestamp of the utterance (in seconds)
+* *interlocutor*: The person (or the robot) that is speaking (A, B: the participants; R: the robot; I: an experimenter)
+* *utterance*: The content of the utterance
+
+Utterance segmentation is based on [[3]](#references)'s definition of an *Inter Pausal Unit (IPU)*, defined as "a stretch of a single interlocutor's speech bounded by pauses longer than 100 ms". 
+We also annotated punctuation markers, such as commas, full stops, exclamation points and question marks, fillers, such as 'uh' and 'um', and the discourse marker 'oh'. 
+Transcription included incomplete elements, such as "Mount Neuchat-" in "Mount Neuchat- um Mount Interlaken". 
+We standardised variations of pronunciation in the transcriptions, and we do not account for e.g. variations in accent. 
+For anonymisation, a person's name is replaced with a pseudonym (in particular Ann for participant A, Bob for participant B, and other pesudonyms if an interlocutor refers to someone else).
+The numbers that are explicitly referring to the cost of an edge or a set of edges are written as numerals.
+A graduate student completed two passes on each transcript, and then were checked by another native English speaking graduate student with experience in transcription/annotation tasks.
+
+Note that the start and end times are synchronised with the log times, and the robot's introductory line to start the activity ("so, Ann and Bob, let's start building the tracks. ...", available in the logs) is not included in the transcripts. In addition, some of the utterances by the experimenter (I) and the robot (R) are omitted; these are indicated with "..." in the utterance content. All of the utterances by the robot are available in the logs in complete form.
+
+
+### 1.2. Logs <a name="log_content"></a>
 This part of the dataset contains anonymised event log data for 39 teams.
 
 It consists of 39 files, with one tab-separated text file per team ([logs/justhink19_log_<team_no\>.csv](logs/)).
@@ -54,7 +79,7 @@ Note that in a few cases a team's submit event might not reflect the total cost 
 For anonymisation, the robot's introductory line to start the activity ("so, Ann and Bob, let's start building the tracks. ...") has the participant A's name replaced with Ann (and B with Bob), while within the activity the robot pronounces the names of children.
 
 
-### 1.2. Test Responses <a name="test_content"></a>
+### 1.3. Test Responses <a name="test_content"></a>
 This part of the dataset contains the responses of each participant in each team to the pre-test and post-test for 39 teams. 
 Each test contains 10 multiple-choice (single answer) questions (i.e. items) with 3 options (1 to 3), and assesses a concept on spanning trees (see [[2]](#references)).
 
@@ -68,31 +93,6 @@ In particular, the columns are:
 * *team_no*: The number of the team, or "key" for the correct responses
 * *q?\_A*: The response of participant A to a particular item (among 10 items indexed from 1 to 10)
 * *q?\_B*: The response of participant B to a particular item
-
-
-### 1.3. Transcripts <a name="transcript_content"></a>
-This part of the dataset contains the anonymised dialogue transcripts for 10 teams (out of 39 teams).
-
-It consists of 10 files, with one tab-separated text file per team ([transcripts/justhink19_transcript_<team_no\>.csv](transcripts/)).
-
-In particular, the columns are:
-
-* *team_no*: The number of the team that the dialogue belongs to
-* *utterance_no*: The number of the utterance, starting from 1
-* *start*: The start timestamp of the utterance, from the beginning of the activity
-* *end*: The end timestamp of the utterance
-* *interlocutor*: The person (or the robot) that is speaking (A, B: the participants; R: the robot; I: an experimenter)
-* *utterance*: The content of the utterance
-
-Utterance segmentation is based on [[3]](#references)'s definition of an *Inter Pausal Unit (IPU)*, defined as "a stretch of a single interlocutor's speech bounded by pauses longer than 100 ms". 
-We also annotated punctuation markers, such as commas, full stops, exclamation points and question marks, fillers, such as 'uh' and 'um', and the discourse marker 'oh'. 
-Transcription included incomplete elements, such as "Mount Neuchat-" in "Mount Neuchat- um Mount Interlaken". 
-We standardised variations of pronunciation in the transcriptions, and we do not account for e.g. variations in accent. 
-For anonymisation, a person's name is replaced with a pseudonym (in particular Ann for participant A, Bob for participant B, and other pesudonyms if an interlocutor refers to someone else).
-The numbers that are explicitly referring to the cost of an edge or a set of edges are written as numerals.
-A graduate student completed two passes on each transcript, and then were checked by another native English speaking graduate student with experience in transcription/annotation tasks.
-
-Note that the start and end times are synchronised with the log times, and the robot's introductory line to start the activity ("so, Ann and Bob, let's start building the tracks. ...", available in the logs) is not included in the transcripts. In addition, some of the utterances by the experimenter (I) and the robot (R) are omitted; these are indicated with "..." in the utterance content. All of the utterances by the robot are available in the logs in complete form.
 
 
 ## Acknowledgements
