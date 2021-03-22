@@ -1,5 +1,7 @@
 # JUSThink Dialogue and Actions Corpus (Dataset)
 
+[![DOI](https://zenodo.org/badge/344263661.svg)](https://zenodo.org/badge/latestdoi/344263661)
+
 The information contained in this dataset (JUSThink Dialogue and Actions Corpus) includes dialogue transcripts, event logs, and test responses of children aged 9 through 12, as they participate in a robot-mediated human-human collaborative learning activity named JUSThink, where children in teams of two solve a problem on graphs together. 
 The information was collected in a study at two international schools in Switzerland, in October 2019.
 The JUSThink activity and its study is first described in [[1]](#references), and elaborated with findings concerning the link between children's learning, performance in the activity, and perception of self, the other and the robot in [[2]](#references).
