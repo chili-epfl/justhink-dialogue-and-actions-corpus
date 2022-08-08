@@ -45,7 +45,7 @@ In particular, the columns are:
 * *interlocutor*: The person (or the robot) that is speaking (*A*, *B*: the participants; *R*: the robot; *I*: an experimenter)
 * *utterance*: The content of the utterance
 
-Utterance segmentation is based on [[3]](#references)'s definition of an *Inter Pausal Unit (IPU)*, defined as "a stretch of a single interlocutor's speech bounded by pauses longer than 100 ms". 
+Utterance segmentation is based on [[4]](#references)'s definition of an *Inter Pausal Unit (IPU)*, defined as "a stretch of a single interlocutor's speech bounded by pauses longer than 100 ms". 
 We also annotated punctuation markers, such as commas, full stops, exclamation points and question marks, fillers, such as 'uh' and 'um', and the discourse marker 'oh'.
 Transcription included incomplete elements, such as "Mount Neuchat-" in "Mount Neuchat- um Mount Interlaken".
 We standardised variations of pronunciation in the transcriptions, and we do not account for e.g. variations in accent.
@@ -108,7 +108,9 @@ In particular, the columns are:
 
 [2] J. Nasir\*, U. Norman\*, B. Bruno, and P. Dillenbourg, “When Positive Perception of the Robot Has No Effect on Learning,” in 2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), Aug. 2020, pp. 313–320, doi: [10.1109/RO-MAN47096.2020.9223343](https://doi.org/10.1109/RO-MAN47096.2020.9223343).
 
-[3] H. Koiso, Y. Horiuchi, S. Tutiya, A. Ichikawa, and Y. Den, “An analysis of turn-taking and backchannels based on prosodic and syntactic features in Japanese map task dialogs,” Language and speech, vol. 41, no. 3–4, pp. 295–321, 1998, doi: [10.1177/002383099804100404](https://doi.org/10.1177/002383099804100404).
+[3] U. Norman\*, T. Dinkar\*, B. Bruno, and C. Clavel, "Studying Alignment in a Collaborative Learning Activity via Automatic Methods: The Link Between What We Say and Do," Dialogue & Discourse, 13(2), 1–48. [10.5210/dad.2022.201](https://doi.org/10.5210/dad.2022.201).
+
+[4] H. Koiso, Y. Horiuchi, S. Tutiya, A. Ichikawa, and Y. Den, “An analysis of turn-taking and backchannels based on prosodic and syntactic features in Japanese map task dialogs,” Language and speech, vol. 41, no. 3–4, pp. 295–321, 1998, doi: [10.1177/002383099804100404](https://doi.org/10.1177/002383099804100404).
 
 
 
