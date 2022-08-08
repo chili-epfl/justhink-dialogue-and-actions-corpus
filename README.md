@@ -7,6 +7,8 @@ The information was collected in a study at two international schools in Switzer
 The JUSThink activity and its study is first described in [[1]](#references), and elaborated with findings concerning the link between children's learning, performance in the activity, and perception of self, the other and the robot in [[2]](#references).
 See the [project website](https://www.epfl.ch/labs/chili/index-html/research/animatas/justhink/) for details.
 
+This data has been studied in [[3]](#references) to automatically analyse how participants' align their use of task-specific referents in their dialogue and actions, and how it relates to the task success (i.e. their task performance and learning outcomes): these tools are available from the Zenodo Repository, DOI: [10.5281/zenodo.4675070](http://doi.org/10.5281/zenodo.4675070).
+
 
 1. [Content](#code_description)
     1. [Transcripts](#transcript_content)
