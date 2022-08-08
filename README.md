@@ -9,9 +9,52 @@ See the [project website](https://www.epfl.ch/labs/chili/index-html/research/ani
 
 This data has been studied in [[3]](#references) to automatically analyse how participants' align their use of task-specific referents in their dialogue and actions, and how it relates to the task success (i.e. their task performance and learning outcomes): these tools are available from the Zenodo Repository, DOI: [10.5281/zenodo.4675070](http://doi.org/10.5281/zenodo.4675070).
 
-You can cite this dataset as follows:
 
-Norman, Utku, Dinkar, Tanvi, Nasir, Jauwairia, Bruno, Barbara, Clavel, Chloé, & Dillenbourg, Pierre. (2021). JUSThink Dialogue and Actions Corpus [Data set]. In Dialogue & Discourse (v1.0.0, Vol. 13, Number 2, pp. 1–48). Zenodo. https://doi.org/10.5281/zenodo.4627104.
+### Publications
+
+If you use this work in an academic context, please cite the following publications:
+        
+* Norman*, U., Dinkar*, T., Bruno, B., & Clavel, C. (2022). Studying Alignment in a Collaborative Learning Activity via Automatic Methods: The Link Between What We Say and Do. Dialogue & Discourse, 13(2), 1–48. https://doi.org/10.5210/dad.2022.201
+
+        @article{norman_dinkar_studying_2022,
+            title        = {Studying Alignment in a Collaborative Learning Activity via Automatic Methods: The Link Between What We Say and Do},
+            author       = {Norman*, Utku and Dinkar*, Tanvi and Bruno, Barbara and Clavel, Chloé},
+            journaltitle = {Dialogue \& Discourse},
+            volume       = {13},
+            number       = {2},
+            pages        = {1--48},  
+            month        = aug,
+            year         = 2022,
+            doi          = {10.5210/dad.2022.201},
+            note         = {*Contributed equally to this work.},
+        }
+        
+* Nasir*, J., Norman*, U., Bruno, B., & Dillenbourg, P. (2020). When Positive Perception of the Robot Has No Effect on Learning. 2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 313–320. https://doi.org/10.1109/RO-MAN47096.2020.9223343
+
+        @inproceedings{nasir_norman_when_2020,
+            title        = {When Positive Perception of the Robot Has No Effect on Learning},
+            author       = {Nasir*, J. and Norman*, U. and Bruno, B. and Dillenbourg, P.},
+            pages        = {313--320},
+            booktitle    = {2020 29th {IEEE} International Conference on Robot and Human Interactive Communication ({RO}-{MAN})},
+            year         = 2020,
+            month        = aug,
+            doi          = {10.1109/RO-MAN47096.2020.9223343},
+            note         = {*Contributed equally to this work.},
+        }
+
+* Norman, Utku, Dinkar, Tanvi, Nasir, Jauwairia, Bruno, Barbara, Clavel, Chloé, & Dillenbourg, Pierre. (2021). JUSThink Dialogue and Actions Corpus [Data set]. In Dialogue & Discourse (v1.0.0, Vol. 13, Number 2, pp. 1–48). Zenodo. https://doi.org/10.5281/zenodo.4627104.
+
+        @software{norman_dinkar_justhink_dataset_2021,
+            title        = {JUSThink Dialogue and Actions Corpus},
+            author       = {Norman, Utku and Dinkar, Tanvi and Nasir, Jauwairia and Bruno, Barbara and Clavel, Chloé and Dillenbourg, Pierre},
+            month        = mar,
+            year         = 2021,
+            publisher    = {Zenodo},
+            version      = {v1.0.0},
+            doi          = {10.5281/zenodo.4627104},
+            url          = {https://doi.org/10.5281/zenodo.4627104},
+        }
+
 
 
 1. [Content](#code_description)
