@@ -9,6 +9,10 @@ See the [project website](https://www.epfl.ch/labs/chili/index-html/research/ani
 
 This data has been studied in [[3]](#references) to automatically analyse how participants' align their use of task-specific referents in their dialogue and actions, and how it relates to the task success (i.e. their task performance and learning outcomes): these tools are available from the Zenodo Repository, DOI: [10.5281/zenodo.4675070](http://doi.org/10.5281/zenodo.4675070).
 
+You can cite this dataset as follows:
+
+Norman, Utku, Dinkar, Tanvi, Nasir, Jauwairia, Bruno, Barbara, Clavel, Chloé, & Dillenbourg, Pierre. (2021). JUSThink Dialogue and Actions Corpus [Data set]. In Dialogue & Discourse (v1.0.0, Vol. 13, Number 2, pp. 1–48). Zenodo. https://doi.org/10.5281/zenodo.4627104.
+
 
 1. [Content](#code_description)
     1. [Transcripts](#transcript_content)
@@ -18,7 +22,7 @@ This data has been studied in [[3]](#references) to automatically analyse how pa
 3. [References](#references)
 
 
-## 1. Content
+## 1. Content <a name="code_description"></a>
 
 JUSThink Dialogue and Actions Corpus is consisted of three parts:
 
