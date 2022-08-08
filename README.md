@@ -1,6 +1,7 @@
 # JUSThink Dialogue and Actions Corpus (Dataset)
 
 [![DOI](https://zenodo.org/badge/344263661.svg)](https://zenodo.org/badge/latestdoi/344263661)
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 The information contained in this dataset (JUSThink Dialogue and Actions Corpus) includes dialogue transcripts, event logs, and test responses of children aged 9 through 12, as they participate in a robot-mediated human-human collaborative learning activity named JUSThink, where children in teams of two solve a problem on graphs together. 
 The information was collected in a study at two international schools in Switzerland, in October 2019.
@@ -150,6 +151,12 @@ In particular, the columns are:
  This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 765955. Namely, the [ANIMATAS Project](https://www.animatas.eu/).
 
 
+## License <a name="license"></a>
+This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+
 ## References <a name="references"></a>
 [1] J. Nasir, U. Norman, B. Bruno, and P. Dillenbourg, “You Tell, I Do, and We Swap until we Connect All the Gold Mines!,” ERCIM News, vol. 2020, no. 120, 2020, [Online]. Available: [https://ercim-news.ercim.eu/en120/special/you-tell-i-do-and-we-swap-until-we-connect-all-the-gold-mines](https://ercim-news.ercim.eu/en120/special/you-tell-i-do-and-we-swap-until-we-connect-all-the-gold-mines).
 
@@ -160,12 +167,6 @@ In particular, the columns are:
 [4] H. Koiso, Y. Horiuchi, S. Tutiya, A. Ichikawa, and Y. Den, “An analysis of turn-taking and backchannels based on prosodic and syntactic features in Japanese map task dialogs,” Language and speech, vol. 41, no. 3–4, pp. 295–321, 1998, doi: [10.1177/002383099804100404](https://doi.org/10.1177/002383099804100404).
 
 
-
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
-
-[![CC BY 4.0][cc-by-image]][cc-by]
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
